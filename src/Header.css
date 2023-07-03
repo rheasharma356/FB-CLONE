@@ -1,0 +1,89 @@
+
+.header {
+    padding: 15px 15px; /*top bottom - left right*/
+    display: flex; /*makes all elements align into a row */
+    justify-content: space-between;
+    position: sticky;
+    z-index: 100;
+    background-color:white;
+    box-shadow: 0px 5px 8px -9px rgba(0, 0, 0, 0.75);
+}
+
+.header__left {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.header__input {
+    display: flex;
+    align-items: center;
+    background-color: #f2f3f6 ;
+ 
+    padding: 10px;
+    margin-left: 10px;
+    border-radius: 999px
+}
+
+.header__left > img {
+    height: 40px;
+}
+
+.header__input > input {
+    border: none;
+    background-color: transparent ;
+    outline-width: 0;
+}
+
+.header__middle {
+    display: flex;
+    flex: 1;
+    justify-content: center;
+}
+/*defining icon colour */
+.header__option > .MuiSvgIcon-root {
+ color: grey; 
+}
+/*icon colour while hovering */
+.header__option:hover > .MuiSvgIcon-root {
+    color: #2e81f4;
+}
+
+.header__option--active >.MuiSvgIcon-root {
+    color: #2e81f4;
+
+}
+
+.header__option--active {
+    border-bottom: 4px solid #2e81f4;
+    
+}
+
+/*aligning all icons*/
+.header__option {
+    display: flex;
+    align-items: center;
+    padding: 0px 30px;
+    cursor: pointer;
+} 
+
+.header__option:hover {
+    background-color:#f2f3f6 ;
+    border-radius: 10px;
+    align-items: center;
+    padding: 0px 30px;
+  
+}
+/* to align name next to the avatar icon*/
+.header__info { 
+    display: flex;
+    align-items: center;
+}
+/* to give spacing between avatar and name */
+.header__info > h4 {
+    margin-left: 10px;
+}
+.header__right {
+    display: flex;
+}
+
+
