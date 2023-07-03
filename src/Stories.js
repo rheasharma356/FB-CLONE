@@ -14,7 +14,7 @@ function Stories() {
         />
         <Story
         image="https://scontent.fdel1-2.fna.fbcdn.net/v/t39.30808-6/347592364_836729864487077_1430072781860428607_n.jpg?stp=dst-jpg_p600x600&_nc_cat=101&cb=99be929b-59f725be&ccb=1-7&_nc_sid=730e14&_nc_ohc=sTAe9k16oQMAX-Cg4dq&_nc_ht=scontent.fdel1-2.fna&oh=00_AfCixDuGO3T7Zg47zHpX3tDO3PoIiG0T0v5iNNUQRINi5g&oe=649F85C3"
-        profilePic="https://scontent.fdel1-2.fna.fbcdn.net/v/t39.30808-6/327670420_1011455126481914_6737549254235204815_n.jpg?_nc_cat=101&cb=99be929b-59f725be&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=tgwEeXSE6OsAX_DgURI&_nc_ht=scontent.fdel1-2.fna&oh=00_AfAkuPjkjUakIS2Xcl4ynVIo3meAnB80ombuq7UNQAzvGg&oe=649EB7A5"
+        profilePic="https://upload.wikimedia.org/wikipedia/en/2/2a/Alfa_Romeo_logo.png"
         title="Alfa Romeo F1 Team"
         />
         <Story
